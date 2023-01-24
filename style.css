@@ -1,0 +1,18 @@
+hr {
+  border-bottom: 2px dotted;
+  border-top: none;
+  height: 1px;
+  width: 100%;
+}
+h1 {
+  border-style: ridge;
+  border-width: 20%;
+  border-radius: 20%;
+  color: #006400;
+}
+h3 {
+  border-style: ridge;
+  border-width: 20%;
+  border-radius: 20%;
+  color: #6B8E23;
+}
